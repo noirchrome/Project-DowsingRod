@@ -3,13 +3,15 @@
 	"id": "orebuddy",
 	"version": "${version}",
 	"name": "OreBuddy",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A revolutionary vein finder for CivMC",
 	"authors": [
-		"Me!"
+		"noirchromium",
+		"Loopy_py",
+		"SpaceGandalf1"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/noirchromium/project-dowsingrod",
+		"sources": "https://github.com/noirchromium/project-dowsingrod"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/orebuddy/icon.png",
